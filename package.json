@@ -1,0 +1,33 @@
+{
+    "title": "GULP_JQUERY_SASS",
+    "name": "GULP_JQUERY_SASS",
+    "version": "1.0.0",
+    "description": "GULP_JQUERY_SASS",
+    "keywords": [
+        "gulp",
+        "sass",
+        "jquery",
+        "template"
+    ],
+    "license": "MIT",
+    "author": "Damon Byun",
+    "contributors": [
+        ""
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/always-awaken/GULP_JQUERY_SASS"
+    },
+    "dependencies": {
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.24.7",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.0"
+    }
+}
